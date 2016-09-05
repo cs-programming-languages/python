@@ -1,4 +1,5 @@
-import words
+from module import words
+
 # 'http://sixty-north.com/c/t.txt'
 
 # print_items("hello")
