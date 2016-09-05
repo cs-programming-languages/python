@@ -34,3 +34,5 @@ hash_table = {"k1":"v1","k2":"v1"}
 print(hash_table['k1'])
 
 
+
+
